@@ -5,5 +5,7 @@ The program is written in Lua using Love2D framework with Box2D physics. See the
 
 Controls:
 Space - lock/unlock the camera to watch the leader
+
 Escape - quit program
+
 Mouse click and drag (mapbar) - set camera position
